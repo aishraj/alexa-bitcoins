@@ -1,4 +1,4 @@
-# Bitcoin price Skill for Amazon Alexa
+# Bitcoin price Skill for Amazon Echo/Alexa
 
 An hour long weekend hack project to try out Alexa developer kit and AWS Lambda. Currently a very simple and dumb application that makes a coindesk API call to get the price.
 
