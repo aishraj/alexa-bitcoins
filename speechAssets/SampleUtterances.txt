@@ -1,0 +1,8 @@
+GetBitCoinCurrentPriceIntent what is the current price
+GetBitCoinCurrentPriceIntent what is the price right now
+GetBitCoinCurrentPriceIntent what is the price
+GetBitCoinCurrentPriceIntent what is the bitcoin price
+GetBitCoinCurrentPriceIntent tell me the bitcoin price right now
+GetBitCoinCurrentPriceIntent convert bitcoin to dollars
+GetBitCoinCurrentPriceIntent how expensive is bitcoin right now
+GetBitCoinCurrentPriceIntent how much does one bitcoin cost

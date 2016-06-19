@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "GetBitCoinCurrentPriceIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
